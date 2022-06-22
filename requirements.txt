@@ -12,3 +12,4 @@ six==1.13.0
 urllib3==1.25.7
 wcwidth==0.1.7
 zipp==0.6.0
+pytest~=7.1.2
